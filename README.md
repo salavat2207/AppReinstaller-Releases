@@ -2,7 +2,7 @@
 
 Готовая версия приложения для macOS находится в файле:
 
-- [AppReinstaller-7.1.dmg](AppReinstaller-7.1.dmg)
+- [AppReinstaller-7.1.dmg](https://github.com/salavat2207/AppReinstaller-Releases/raw/main/AppReinstaller-7.1.dmg)
 
 ## Установка
 
