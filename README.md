@@ -1,8 +1,13 @@
 # AppReinstaller — готовое приложение
 
-Готовая версия приложения для macOS находится в файле:
+Актуальная версия приложения для macOS:
 
-- [AppReinstaller-7.1.dmg](https://github.com/salavat2207/AppReinstaller-Releases/raw/main/AppReinstaller-7.1.dmg?v=7.1.0)
+- [AppReinstaller-latest.dmg](https://github.com/salavat2207/AppReinstaller-Releases/raw/main/AppReinstaller-latest.dmg?v=latest)
+
+Архив предыдущих версий:
+
+- [AppReinstaller-7.1.dmg](https://github.com/salavat2207/AppReinstaller-Releases/raw/main/AppReinstaller-7.1.dmg)
+- [AppReinstaller-7.0.dmg](https://github.com/salavat2207/AppReinstaller-Releases/raw/main/AppReinstaller-7.0.dmg)
 
 ## Установка
 
