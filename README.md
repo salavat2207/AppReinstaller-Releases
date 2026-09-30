@@ -2,6 +2,9 @@
 
 Актуальная версия приложения для macOS:
 
+Выпуск 11.1.0 содержит backend авторизации `ipatool-cpp` для Apple Silicon
+(arm64). Поддержка Intel Mac в этой экспериментальной версии пока не включена.
+
 - [AppReinstaller-latest.dmg](https://github.com/salavat2207/AppReinstaller-Releases/raw/main/AppReinstaller-latest.dmg?v=latest)
 
 ## Установка
