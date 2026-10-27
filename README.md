@@ -1,13 +1,31 @@
 # AppReinstaller — готовое приложение
 
-Актуальная версия приложения для macOS:
+Актуальные версии приложения — для macOS и Windows.
+
+### macOS (Mac с процессором Apple M1 и новее)
 
 Выпуск 11.1.0 содержит backend авторизации `ipatool-cpp` для Apple Silicon
 (arm64). Поддержка Intel Mac в этой экспериментальной версии пока не включена.
 
 - [AppReinstaller-latest.dmg](https://github.com/salavat2207/AppReinstaller-Releases/raw/main/AppReinstaller-latest.dmg?v=latest)
 
-## Установка
+### Windows 10 / 11 (64-бит)
+
+- [AppReinstaller-Setup.exe](https://github.com/salavat2207/AppReinstaller-Releases/raw/main/AppReinstaller-Setup.exe)
+
+## Установка на Windows
+
+1. Установите приложение «Устройства Apple» из Microsoft Store (или iTunes) —
+   без него Windows не видит iPhone.
+2. Скачайте и запустите `AppReinstaller-Setup.exe`. Права администратора не
+   нужны: программа ставится для текущего пользователя.
+3. Если Windows покажет окно «Windows защитила ваш компьютер», нажмите
+   **Подробнее → Выполнить в любом случае**.
+4. Подключите iPhone кабелем, разблокируйте его и нажмите «Доверять».
+5. Войдите в Apple ID в окне консоли, которое откроет программа, выберите
+   приложения и нажмите «Установить».
+
+## Установка на Mac
 
 1. Скачайте DMG-файл.
 2. Откройте его двойным щелчком.
